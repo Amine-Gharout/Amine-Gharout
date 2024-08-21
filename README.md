@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub!
 
 ## 🚀 About Me
-I'm **Amine Gharout**, a passionate student currently in my 1CP year at the prestigious **École Supérieure d'Informatique (ESI)** in Algeria. I'm on a journey to explore the vast world of technology and software development.
+I'm **Amine Gharout**, a passionate student currently in my 1CP year at the prestigious **École Supérieure d'Informatique (ESI)** in Algeria.I'm a 17-Year-Old Teen Eager to Learn More About Math and Programming, Especially in Areas Like Machine Learning, Software Engineering, and Algorithms.
 
 ## 🔭 My Interests
 - **Machine Learning & AI**: I love diving into **sklearn** models and experimenting with different machine learning techniques.
@@ -10,11 +10,11 @@ I'm **Amine Gharout**, a passionate student currently in my 1CP year at the pres
 
 ## 🌱 Currently Learning
 I'm expanding my knowledge in:
-- **Advanced Python**: Unlocking the full potential of Python across various domains, including machine learning and advanced automation.
+- **Advanced Python**: Unlocking the full potential of Python across various domains, including machine learning and automation.
 - **C++ & C**: Building robust, high-performance applications that leverage the strengths of these powerful languages.
 
-## 🤝 Collaboration
-I'm eager to collaborate with like-minded developers, especially within the **GDG group at ESI**. If you're interested in building innovative projects, let's connect and create something amazing together! 🌟
+## 🤝 Community
+I'm eager to collaborate with like-minded developers, especially within the **GDG group at ESI**
 
 ## ⚡ Fun Fact
-Can we combine the **performance of C++** with the **flexibility of Python** to create something truly magical? Let's find out together! 🧙‍♂️✨
+Can we combine the **performance of C++** with the **flexibility of Python** to create something truly magical? ✨
