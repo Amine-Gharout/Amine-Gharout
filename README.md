@@ -1,12 +1,6 @@
-## 🚀 About Me
-I'm **Amine Gharout**, a student currently in my 1CP year at **École Supérieure d'Informatique (ESI)** in Algeria.
+## 🚀 About Me  
+I'm **Amine Gharout**, a passionate computer science student in my 1CP year at **École Supérieure d'Informatique (ESI)**, Algeria. I’m deeply interested in building intelligent systems and understanding how things work under the hood.
 
-## 🔭 My Interests
-- **Machine Learning & AI**: I love experimenting with different machine learning techniques.
-- **Systems Programming**: I'm fascinated by the power of **C++** and **C** for low-level programming.
-
-## 🌱 Currently Learning
-- **Advanced Python**:  including machine learning and automation.
-- **C++ & C**: Building robust, applications that leverage the strengths of these languages.
-
-
+## 🔭 Interests  
+- **Machine Learning & AI**: Enthusiastic about experimenting with ML/DL techniques, LLMs, and Retrieval-Augmented Generation (RAG) systems.  
+- **Systems Programming**: Intrigued by the efficiency and control offered by **C++** and **C**, especially in low-level development.
