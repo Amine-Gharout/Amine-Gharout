@@ -12,22 +12,21 @@
 
 ## About Me
 
-CS student at **ESI Algiers**, focused on AI and building things that actually work.
-I spend most of my time on machine learning, language models, and competitive data science.
-Currently exploring the intersection of RL, vision, and language.
+CS student at **ESI Algiers**, interested in AI research and the engineering behind making models actually work in production.
+I care about understanding things deeply — from the math to the infrastructure.
 
 - 📍 Algiers, Algeria
-- 💻 Pop!_OS · Python · Java
-- 🎓 Open to collaborations and research opportunities
+- 🔬 Research-oriented · MLOps · Systems thinking
+- 🤝 Open to research collaborations and engineering projects
 
 ---
 
 ## 🔭 Currently Exploring
 
-- Legal AI & Retrieval-Augmented Generation
-- Reinforcement Learning with Vision
-- Competitive Machine Learning
-- Large Language Models & Agents
+- AI Research & Experiment Design
+- MLOps — model deployment, tracking, and pipelines
+- Large Language Models & RAG Systems
+- Reinforcement Learning & Vision
 
 ---
 
@@ -54,8 +53,10 @@ Currently exploring the intersection of RL, vision, and language.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Dev & Infra**
+**MLOps & Infra**
 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
