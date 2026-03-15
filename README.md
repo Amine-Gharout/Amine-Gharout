@@ -70,21 +70,6 @@ Currently exploring the intersection of RL, vision, and language.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Amine-Gharout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine-Gharout&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Amine-Gharout&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
