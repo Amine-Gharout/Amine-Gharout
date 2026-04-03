@@ -12,7 +12,7 @@
 
 ## About Me
 
-CS student at **ESI Algiers**, interested in AI research and the engineering behind making models actually work in production.
+CS student at **ESI Algiers**, interested in AI research and the engineering behind making models actually work in.
 I care about understanding things deeply — from the math to the infrastructure.
 
 - 📍 Algiers, Algeria
