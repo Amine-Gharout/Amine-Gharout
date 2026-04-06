@@ -27,7 +27,6 @@ I care about understanding things deeply — from the math to the infrastructure
 - MLOps — model deployment, tracking, and pipelines
 - Large Language Models & RAG Systems
 - Reinforcement Learning & Vision
-
 ---
 
 ## 🛠️ Tech Stack
