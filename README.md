@@ -6,11 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;MLOps+%26+LLMOps+Engineer;Natural+Language+Processing;Reinforcement+Learning;AI+Researcher+%26+Builder)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Amine-Gharout&color=6E40C9&style=for-the-badge&label=Profile+Views)
-
-</div>
 
 ---
 
@@ -19,9 +14,9 @@
 CS student at **ESI Algiers**, focused on AI research and the engineering behind making models actually work in production. I care about understanding things deeply — from the math to the infrastructure.
 
 - 📍 Algiers, Algeria
-- 🎓 **[Microsoft Learn Student Ambassador](https://mvp.microsoft.com/studentambassadors)** — Alpha Tier
-- 🌍 **Zindi Ambassador** · **SOAI Club Manager**
-- 🔬 Research-oriented · MLOps · Systems thinking
+- 🎓 **[Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/ab8c9dcb-a7b8-4f49-ab66-e434f769cf44)** — Alpha Tier
+- 🌍 **[SOAI](https://www.linkedin.com/company/school-of-ai-algiers/posts/?feedView=all) Club Manager**
+- 🔬 Research-oriented · MLOps/LLMOps · Systems thinking
 - 🤝 Open to research collaborations and engineering projects
 
 ---
@@ -73,22 +68,7 @@ CS student at **ESI Algiers**, focused on AI research and the engineering behind
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amine-Gharout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine-Gharout&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Amine-Gharout&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🌐 Connect
 
@@ -101,4 +81,3 @@ CS student at **ESI Algiers**, focused on AI research and the engineering behind
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
