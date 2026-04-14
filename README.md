@@ -24,7 +24,7 @@ I care about understanding things deeply — from the math to the infrastructure
 ## 🔭 Currently Exploring
 
 - AI Research & Experiment Design
-- MLOps — model deployment, tracking, and pipelines
+- MLOps/LLMOps — model deployment, tracking, and pipelines
 - Large Language Models & RAG Systems
 - Reinforcement Learning & Vision
 ---
