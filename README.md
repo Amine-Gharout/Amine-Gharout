@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amine%20Gharout&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20·%20AI%20Research%20·%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;MLOps+%26+LLMOps+Engineer;Natural+Language+Processing;Reinforcement+Learning;AI+Research+%26+Builder)](https://git.io/typing-svg)
 
 
