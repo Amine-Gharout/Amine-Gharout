@@ -70,7 +70,7 @@ CS student at **ESI Algiers**, focused on AI research and the engineering behind
 
 ---
 
-## 🌐 Connect
+##  🌐 Connect
 
 <div align="center">
 
