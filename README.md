@@ -5,7 +5,7 @@
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;MLOps+%26+LLMOps+Engineer;Natural+Language+Processing;Reinforcement+Learning;AI+Research+%26+Builder)](https://git.io/typing-svg)
-
+ 
 
 ---
 
