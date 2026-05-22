@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me v
+## 👨‍💻 About Me 
 
 CS student at **ESI Algiers**, focused on AI research and the engineering behind making models actually work in production. I care about understanding things deeply — from the math to the infrastructure.
 
