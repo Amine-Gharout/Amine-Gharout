@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me 
 
-DS student at **Rouen University**, focused on AI research and the engineering behind making models actually work in production. I care about understanding things deeply — from the math to the infrastructure.
+Data Science student at **Rouen University**, focused on AI research and the engineering behind making models actually work in production. I care about understanding things deeply — from the math to the infrastructure.
 
 - 📍 Rouen, France 
 - 🎓 **[Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/ab8c9dcb-a7b8-4f49-ab66-e434f769cf44)** — Alpha Tier
