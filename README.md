@@ -13,9 +13,9 @@
 Data Science student at **Rouen University**, focused on AI research and the engineering behind making models actually work in production. I care about understanding things deeply — from the math to the infrastructure.
 
 - Rouen, France
-- **[Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/ab8c9dcb-a7b8-4f49-ab66-e434f769cf44)** — Alpha Tier
-- **[SOAI](https://www.linkedin.com/company/school-of-ai-algiers/posts/?feedView=all) Club Manager**
-- Research-oriented · MLOps/LLMOps · Systems thinking
+- **[Microsoft Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/ab8c9dcb-a7b8-4f49-ab66-e434f769cf44)** 
+- **[SOAI](https://www.linkedin.com/company/school-of-ai-algiers/posts/?feedView=all) Club Ex Manager**
+- Researcenterch-oriented · MLOps/LLMOps · Systems thinking
 - Open to research collaborations and engineering projects
 
 ---
