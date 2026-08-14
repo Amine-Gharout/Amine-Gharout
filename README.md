@@ -1,36 +1,35 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amine%20Gharout&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20·%20AI%20Research%20·%20Builder&descAlignY=55&descSize=18" width="100%"/>
- 
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;MLOps+%26+LLMOps+Engineer;Natural+Language+Processing;Reinforcement+Learning;AI+Research+%26+Builder)](https://git.io/typing-svg)
 
- 
 ---
 
-## 👨‍💻 About Me 
+## About Me
 
 Data Science student at **Rouen University**, focused on AI research and the engineering behind making models actually work in production. I care about understanding things deeply — from the math to the infrastructure.
 
-- 📍 Rouen, France 
-- 🎓 **[Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/ab8c9dcb-a7b8-4f49-ab66-e434f769cf44)** — Alpha Tier
-- 🌍 **[SOAI](https://www.linkedin.com/company/school-of-ai-algiers/posts/?feedView=all) Club Manager**
-- 🔬 Research-oriented · MLOps/LLMOps · Systems thinking
-- 🤝 Open to research collaborations and engineering projects
+- Rouen, France
+- **[Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/ab8c9dcb-a7b8-4f49-ab66-e434f769cf44)** — Alpha Tier
+- **[SOAI](https://www.linkedin.com/company/school-of-ai-algiers/posts/?feedView=all) Club Manager**
+- Research-oriented · MLOps/LLMOps · Systems thinking
+- Open to research collaborations and engineering projects
 
 ---
 
-## 🔭 Currently Exploring
+## Currently Exploring
 
 - AI Research & Experiment Design
 - MLOps/LLMOps — model deployment, tracking, and pipelines
 - Large Language Models & RAG Systems
 - Reinforcement Learning & Graph Neural Networks
- 
+
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -70,7 +69,7 @@ Data Science student at **Rouen University**, focused on AI research and the eng
 
 ---
 
-##  🌐 Connect
+## Connect
 
 <div align="center">
 
